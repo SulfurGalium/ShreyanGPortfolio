@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 
 // Make the font thicker and less skinny
-body, p, li {
+body, p, li, td {
   font-weight: 500 !important; /* Increases body text to a medium/heavy weight */
 }
 
