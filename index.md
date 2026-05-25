@@ -563,9 +563,6 @@ void loop() {
 
 <br>
 
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
-
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Adafruit AS7341 10-Channel Light / Color Sensor Breakout - STEMMA QT / Qwiic | Color Sensor | $15.95 | <a href="https://www.adafruit.com/product/4698/"> Link </a> |
