@@ -2,11 +2,17 @@
 ---
 @import "{{ site.theme }}";
 
-.wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
+// Make the font thicker and less skinny
+body, p, li {
+  font-weight: 500 !important; /* Increases body text to a medium/heavy weight */
 }
 
-section.main-content {
-  width: 85%;
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700 !important; /* Forces headers to be extra bold */
+}
+
+// Optional layout adjustment from your previous step
+#main_content {
+  max-width: 750px; 
+  margin: 0 auto;   
 }
