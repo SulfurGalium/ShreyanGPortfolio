@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="./assets/style.css">
 
 # COLOR GLOVE SYNTHESIZER
 
